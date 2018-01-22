@@ -1,3 +1,7 @@
+-------------Dokumentacja-------------
+Sprawozdanie z przeprowadzonego projektu znajduje się w pliku BazyDanychProjekt.pdf.
+W folderze kod znajdują się wszystkie klasy stworzonej aplikacji.
+
 -------------Instalacja i konfigurowanie systemu-------------
 
 Stworzona aplikacja desktopowa zawarta jest w pliku wykonywalnym Wypozyczalnia.jar.
